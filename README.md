@@ -11,7 +11,6 @@
 
 > Classifies **10 distracted driving behaviors** from dashboard camera images using a **custom ResNet50 implementation built from scratch in Keras** — including manual `convolutional_block` and `identity_block` definitions, `glorot_uniform` initialization, and LOGO cross-validation strategy.
 
-[🔙 Back to Main Repository](https://github.com/shsarv/Machine-Learning-Projects)
 
 </div>
 
